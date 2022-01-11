@@ -1,6 +1,6 @@
 <h1 align="center">Hello there  👋</h1>
 
-## Hi, I'm Evandrp
+## Hi, I'm Evandro
 
 - I’m currently learning C Developement
 - I’m currently working in [...]
