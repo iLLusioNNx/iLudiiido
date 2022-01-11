@@ -1,6 +1,6 @@
 <h1 align="center">Hello there  👋</h1>
 
-## Hi, I'm Evandro
+## Hi, I'm Evandrp
 
 - I’m currently learning C Developement
 - I’m currently working in [...]
@@ -29,9 +29,9 @@
 <br />
 <br />
 
-<a href="https://github.com/danieldimbarre/danieldimbarre">
+<a href="https://github.com/iLudiiido/iLudiiido">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=danieldimbarre&theme=radical" />
 </a>
-<a href="https://github.com/danieldimbarre/danieldimbarre">
+<a href="https://github.com/iLudiiido/iLudiiido">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=danieldimbarre&show_icons=true&theme=radical&line_height=27" alt="danieldimbarre" />
 </a>
